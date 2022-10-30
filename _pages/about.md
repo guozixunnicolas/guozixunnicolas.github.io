@@ -11,16 +11,16 @@ I am a Senior Research Assistant at Singapore University of Technology and Desig
 
 Education
 ======
-    Nanyang Technological University, Singapore.    Aug 2016 - Jun 2020
-      BEng Electrical and Electronics Engineering (Highest Distinction)
+*Nanyang Technological University, Singapore.    Aug 2016 - Jun 2020
+  *BEng Electrical and Electronics Engineering (Highest Distinction)
     
-    KTH Royal Institute of Technology, Sweden.    Aug 2018 - Jan 2019
-      Overseas Exchange program
+*KTH Royal Institute of Technology, Sweden.    Aug 2018 - Jan 2019
+  *Overseas Exchange program
 
 Research Experience 
 ======
-    AMAAI Lab, Singapore University of Technology and Design (SUTD), Singapore. 
-      Senior Research Assistant (full-time). Topic: Sound and Music Modeling, Music Representation Learning. 
+*AMAAI Lab, Singapore University of Technology and Design (SUTD), Singapore. 
+  *Senior Research Assistant (full-time). Topic: Sound and Music Modeling, Music Representation Learning. 
     
-    Speech and Language Lab, Nanyang Technological University (NTU), Singapore. 
-      Research Intern. Topic: Deep Speech Data Augmentation. 
+*Speech and Language Lab, Nanyang Technological University (NTU), Singapore. 
+  *Research Intern. Topic: Deep Speech Data Augmentation. 
