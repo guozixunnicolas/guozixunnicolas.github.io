@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "CV"
+title: 
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
-
+<!-- 
 {% include base_path %}
 
 Education
@@ -56,4 +56,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
+
+<embed src="../files/NicolasGuoZixun_CV_v1.pdf" width="600" height="700" type='application/pdf'>
