@@ -58,4 +58,4 @@ Service and leadership
 ======
 * Currently signed in to 43 different slack teams -->
 
-<embed src="../files/NicolasGuoZixun_CV.pdf" width="600" height="700" type='application/pdf'>
+<embed src="../files/NicolasGuoZixun_cv_Aug2024.pdf" width="600" height="700" type='application/pdf'>
