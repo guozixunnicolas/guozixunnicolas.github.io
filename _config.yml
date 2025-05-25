@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "GUO Zixun Nicolas"
+title                    : "Guo Zixun Nicolas"
 title_separator          : "-"
-name                     : &name "GUO Zixun Nicolas"
-description              : &description "Senior Research Assistant at Singapore University of Technology and Design"
+name                     : &name "Guo Zixun Nicolas"
+description              : &description "PhD research at C4DM, Queen Mary University of London"
 url                      : https://guozixunnicolas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "guozixunnicolas/guozixunnicolas.github.io"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "GUO Zixun Nicolas"
+  name             : "Guo Zixun Nicolas"
   avatar           : "profile.png"
   bio              : "Thinking about music ..."
-  location         : "Singapore"
+  location         : "London; Singapore"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Zn25KFQAAAAJ&hl=en"
